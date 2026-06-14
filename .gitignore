@@ -1,0 +1,18 @@
+# Ignore large Hugging Face model weights and checkpoints (exceeding 100MB GitHub limit)
+scripts/indobert-pos-finetuned/
+data/models/sentiment/
+data/models/tag/
+**/checkpoint-*/
+**/*.safetensors
+**/*.bin
+**/*.pt
+**/*.pth
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local check logs
+*.log
+!data/pipeline_execution.log
