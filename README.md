@@ -1,27 +1,5 @@
 # Analisis Diskrepansi Sentimen Pemberitaan ESG Berbahasa Indonesia sebagai Proksi Deteksi Greenwashing pada Perusahaan Publik Indonesia
 
-> **Tugas Project Akhir Kelompok**  
-> **Mata Kuliah:** Aplikasi Teknologi & Transformasi Digital (ATTD)  
-> **Departemen:** Sistem Informasi, Fakultas Teknologi Elektro dan Informatika Cerdas (FTEIC)  
-> **Institusi:** Institut Teknologi Sepuluh Nopember (ITS), Surabaya  
-> **Tahun:** Semester Genap 2026
-
----
-
-## 👥 Tim Pengembang (Kelompok 5)
-
-| Nama Mahasiswa | NRP | Peran / Fokus |
-| :--- | :--- | :--- |
-| **Antika Raya** | 5026231034 | Data Preparation & Preprocessing |
-| **Nabila Shinta Luthfia** | 5026231038 | Exploratory Data Analysis & Text Lexicon |
-| **Cindy Fatika Ekawati** | 5026231039 | POS Tagging & Feature Engineering |
-| **Amelia Rusbandiyah** | 5026231041 | Named Entity Recognition (NER) & GPE Map |
-| **Rahmadhona Elokpribadi K.** | 5026231217 | LLM Augmentation & Groq API Integration |
-| **Annisa Nur Fauzi** | 5026231228 | Downstream Sentiment BERT Fine-Tuning |
-| **Lailatul Fitaliqoh** | 5026231229 | Downstream ESG Tag BERT Fine-Tuning |
-| **Bara Ardiwinata** | 5026231232 | Local Engine Integration & Pipeline Orchestration |
-
----
 
 ## 📌 Deskripsi & Tujuan Utama Proyek
 
